@@ -1,1 +1,2 @@
 hi,  this is file1
+hi edited under hotfix branch
